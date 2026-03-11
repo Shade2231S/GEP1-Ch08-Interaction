@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 5562427354088551149}
   - component: {fileID: 5741729791747461465}
   m_Layer: 0
-  m_Name: Interactable
+  m_Name: Gnome
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
